@@ -1,0 +1,2 @@
+# IOAI
+AI olympiad
